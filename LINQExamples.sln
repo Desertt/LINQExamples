@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQExamples", "LINQExamples\LINQExamples.csproj", "{67009365-450E-47CC-9C87-CC82A1E7A1E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D01_Temel", "LINQExamples\D01_Temel.csproj", "{67009365-450E-47CC-9C87-CC82A1E7A1E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D02_Where_OfType", "D02_Where_OfType\D02_Where_OfType.csproj", "{5CFE1DD1-0B38-45E8-9EFC-348BE5050631}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{67009365-450E-47CC-9C87-CC82A1E7A1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67009365-450E-47CC-9C87-CC82A1E7A1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67009365-450E-47CC-9C87-CC82A1E7A1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CFE1DD1-0B38-45E8-9EFC-348BE5050631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CFE1DD1-0B38-45E8-9EFC-348BE5050631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CFE1DD1-0B38-45E8-9EFC-348BE5050631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CFE1DD1-0B38-45E8-9EFC-348BE5050631}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LINQExamples
+namespace D01_Temel
 {
     class Program
     {
