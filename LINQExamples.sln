@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D01_Temel", "LINQExamples\D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D02_Where_OfType", "D02_Where_OfType\D02_Where_OfType.csproj", "{5CFE1DD1-0B38-45E8-9EFC-348BE5050631}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D03_OrderBy_ThenBy_Reverse", "D03_OrderBy_ThenBy_Reverse\D03_OrderBy_ThenBy_Reverse.csproj", "{2AECC359-E7FA-4E8B-9ED2-15602F94A78B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5CFE1DD1-0B38-45E8-9EFC-348BE5050631}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CFE1DD1-0B38-45E8-9EFC-348BE5050631}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CFE1DD1-0B38-45E8-9EFC-348BE5050631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AECC359-E7FA-4E8B-9ED2-15602F94A78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AECC359-E7FA-4E8B-9ED2-15602F94A78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AECC359-E7FA-4E8B-9ED2-15602F94A78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AECC359-E7FA-4E8B-9ED2-15602F94A78B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
